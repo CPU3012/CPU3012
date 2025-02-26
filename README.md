@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CPU3012
 - 👀 I’m interested in improving all my skills
-- 🌱 I’m currently learning App/Game Development C++
-- 📫 How to reach me through Discord: i9_ks
+- 🌱 I’m currently learning C++ and JavaScript
+- 📫 How to reach me: Discord username CPUfy
